@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+}
+
+h1{
+    font-size: 24px;
+
+}
+
+.timer{
+    font-size: 48px;
+    margin: 20px;
+}
+
+.controls{
+    margin: 20px;
+}
+
+button{
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-right: 10px;
+}
